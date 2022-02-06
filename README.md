@@ -1,5 +1,6 @@
 # Mangalyaan_Infographics
 Infographics of Indian Mars Mission Mangalyaan made with html, css, js and gsap.
+![Design preview Mangalyaan_Infographics](./moviepedia1.png)
 
 # GSAP (GreenSock Animation Platform)
 
